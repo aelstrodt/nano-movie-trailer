@@ -3,7 +3,6 @@
 """
 Created on Wed Nov 15 19:19:45 2017
 
-@author: aelstrodt
 """
 #import Movies class
 from media import Movies
