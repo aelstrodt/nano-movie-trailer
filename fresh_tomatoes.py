@@ -1,7 +1,7 @@
 import webbrowser
 import os
 import re
-#import list of Movies instances to insert into HTML
+# import list of Movies instances to insert into HTML
 from entertainment_center import movie_list
 
 # Styles and scripting for the page
